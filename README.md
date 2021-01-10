@@ -1,5 +1,14 @@
 <h1> Hi, I'm Carlos Guzman!  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"> </h1>
 
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230" align="right">
+
+<p>
+  <em> future Software Enginner 
+  </br>
+  Java Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
+</p>
+
 <!--
 **ceguzman/ceguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
