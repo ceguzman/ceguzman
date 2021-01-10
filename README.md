@@ -1,6 +1,6 @@
 <h1> Hi, I'm Carlos Guzman!  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"> </h1>
 
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"  style="width="230"; align="right";">
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" "width="230" align="right">
 
 <p>
   <em> Future Software Enginner 
