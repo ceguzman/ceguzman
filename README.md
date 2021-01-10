@@ -1,4 +1,4 @@
-<h2> Hi, I'm Carlos Guzman! <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="50"> </h2>
+<h2> Hi, I'm Carlos Guzman! <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> </h2>
 
 <!--
 **ceguzman/ceguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
