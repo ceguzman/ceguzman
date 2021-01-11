@@ -1,4 +1,4 @@
-<h1> Hi, I'm Carlos Guzman!  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"> </h1>
+<h1> Hi, I'm Carlos Guzman!</h1>
 
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="230" align="right">
 
@@ -15,8 +15,6 @@
 <p>I consider myself a person with a good performance in programming with a desire to learn, a good attitude for team and individual work, creative, responsible, honest, punctual and disciplined.
 
 My strong programming language is JAVA with the following technologies JPA, Hibernate and Spring Boot (Framework). On the other hand, in the area of databases I use the MySQL and PostgreSQL engines.</p>
-
-- <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif"  width="40"> I am learning Angular 
 
 ```java
 package carlos.me;
@@ -87,7 +85,9 @@ public class App {
 [![Linkedin: carlose96008362](https://img.shields.io/badge/-carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)](https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)
 [![GitHub carlose96008362](https://img.shields.io/github/followers/ceguzman?label=follow&style=social)](https://github.com/ceguzman)
 
-# My Skills
+<p><strong>I'm learning Angular</strong><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"></p>
+
+<h3 align = "center"> My Skills <h3>
 
 ## Main programming language
 
