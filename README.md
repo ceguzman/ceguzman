@@ -9,6 +9,21 @@
   </em>
 </p>
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 [![Twitter: carlose96008362](https://img.shields.io/twitter/follow/carlose96008362?style=social)](https://twitter.com/carlose96008362)
 [![Linkedin: carlose96008362](https://img.shields.io/badge/-carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)](https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)
 [![GitHub carlose96008362](https://img.shields.io/github/followers/ceguzman?label=follow&style=social)](https://github.com/ceguzman)
