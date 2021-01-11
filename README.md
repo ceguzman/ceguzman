@@ -16,7 +16,7 @@
 
 My strong programming language is JAVA with the following technologies JPA, Hibernate and Spring Boot (Framework). On the other hand, in the area of databases I use the MySQL and PostgreSQL engines.</p>
 
-- <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif"> I am learning Angular 
+- <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif"  width="40"> I am learning Angular 
 
 ```java
 package carlos.me;
