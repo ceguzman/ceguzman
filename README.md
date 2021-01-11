@@ -85,7 +85,7 @@ public class App {
 [![Linkedin: carlose96008362](https://img.shields.io/badge/-carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)](https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)
 [![GitHub carlose96008362](https://img.shields.io/github/followers/ceguzman?label=follow&style=social)](https://github.com/ceguzman)
 
-<p><strong> - I'm learning Angular  </strong><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="25"></p>
+<p><strong> - I'm learning Angular    </strong><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="25"></p>
 
 ## My Skills 
 
