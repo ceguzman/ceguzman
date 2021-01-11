@@ -42,14 +42,11 @@
 [![Generic badge](https://img.shields.io/badge/IntelliJ-✓-brightgreen.svg?style=flat&logo=intellij-idea&labelColor=red)](https://www.jetbrains.com/es-es/idea/)
 [![Generic badge](https://img.shields.io/badge/WebStorm-✓-brightgreen.svg?style=flat&logo=webstorm&labelColor=orange)](https://www.jetbrains.com/es-es/webstorm/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ceguzman)  
+<p align = "center">
+<img src="https://github-readme-stats-git-master.zephirorb.vercel.app/api?username=ceguzman&show_icons=true&theme=dracula&count_private=true&hide_title=false&hide=stars&line_height=29"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceguzman)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ceguzman&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ceguzman)  
-
-![Profile views](https://gpvc.arturio.dev/ceguzman)  
+<img src="https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=ceguzman&layout=compact&theme=dracula&card_width=250&hide=PureBasic,Ruby,TSQL,Papyrus,PLpgSQL&hide_title=false"/>
+</p>
+  
 
 
