@@ -85,15 +85,15 @@ public class App {
 [![Linkedin: carlose96008362](https://img.shields.io/badge/-carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)](https://www.linkedin.com/in/carlos-esteban-guzman-baquero-012606199/)
 [![GitHub carlose96008362](https://img.shields.io/github/followers/ceguzman?label=follow&style=social)](https://github.com/ceguzman)
 
-<p><strong> - I'm learning Angular</strong><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="30"></p>
+<p><strong> - I'm learning Angular  </strong><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="25"></p>
 
-<h2 align = "center"> My Skills <h2>
+## My Skills 
 
-## Main programming language
+### Main programming language
 
 [![Generic badge](https://img.shields.io/badge/Java-✓-brightgreen.svg?style=flat&logo=java&labelColor=black)](https://sdkman.io/)
 
-## Other languages
+### Other languages
 [![Generic badge](https://img.shields.io/badge/HTML5-✓-brightgreen.svg?style=flat&logo=html5&labelColor=black)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![Generic badge](https://img.shields.io/badge/CSS-✓-brightgreen.svg?style=flat&logo=css3&labelColor=orange)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![Generic badge](https://img.shields.io/badge/JavaScript-✓-brightgreen.svg?style=flat&logo=javascript&labelColor=black)](https://javascript.info/)
