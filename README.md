@@ -10,16 +10,64 @@
 </p>
 
 ```java
-class Me {
-  private String name;
-  private int age;
-  private String currentProfession;
-  private List<String> languages new ArrayList<>;
-  
-  public Carlos(String name; int age, String currentProfession, List<String> languages) {
-      this.name = name;
-  }
+package carlos.me;
+
+import java.time.LocalDate;
+import java.time.Period;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Me {
+    private String name;
+    private int age;
+    private String currentProfession;
+    private List<String> languages = new ArrayList<String>();
+
+    public Me() {
+        this.age = getAge();
+        this.name = "Carlos Guzman";
+        this.currentProfession = "Java Junior Developer";
+        this.languages.add("Java");
+    }
+
+    public int getAge() {
+        DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        LocalDate dateToday = LocalDate.now();
+        LocalDate birthdate = dateToday.parse("02/05/2001", fmt);
+        Period age = Period.between(birthdate, dateToday);
+        return age.getYears();
+    }
+
+    public List<String> getLanguages() {
+        return languages;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Me{" +
+                "name is ='" + name + '\'' +
+                ",my age is =" + age +
+                ", currentProfession is ='" + currentProfession + '\'' +
+                ",My languages are =" + languages +
+                '}';
+    }
 }
+```
+
+```java
+package carlos.me;
+
+public class App {
+    public static void main(String[] args) {
+        Me carlos = new Me();
+        carlos.getLanguages().add("Html");
+        carlos.getLanguages().add("Css");
+        carlos.getLanguages().add("TypeScript");
+    }
+    //Me{name is ='Carlos Guzman',my age is =19, currentProfession is ='Java Junior Developer',My languages are =[Java, Html, Css, TypeScript]}
+}    
 ```
 
 [![Twitter: carlose96008362](https://img.shields.io/twitter/follow/carlose96008362?style=social)](https://twitter.com/carlose96008362)
