@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="230" align="right">
 
 <p>
-  <em> Future Software Enginner <img src="https://media.giphy.com/media/pzrC181f1kPXeaHV1W/giphy.gif" width="30">
+  <em> Future Software Enginner <img src="https://media.giphy.com/media/Me15eWDZ5AAeKH7TUm/giphy.gif" width="30">
   </br>
   Java Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   </em>
