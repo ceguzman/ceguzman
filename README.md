@@ -8,7 +8,13 @@
   </br>
    <strong>Java Junior Developer </strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   </em>
+  - 🌱 Estoy aprendiendo Angular 
 </p>
+
+<h3>About me</h3>
+<p>I consider myself a person with a good performance in programming with a desire to learn, a good attitude for team and individual work, creative, responsible, honest, punctual and disciplined.
+
+My strong programming language is JAVA with the following technologies JPA, Hibernate and Spring Boot (Framework). On the other hand, in the area of databases I use the MySQL and PostgreSQL engines.</p>
 
 ```java
 package carlos.me;
