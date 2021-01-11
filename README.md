@@ -3,9 +3,9 @@
 <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230" align="right">
 
 <p>
-  <em> Future Software Enginner 
+  <em> Future Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40">
   </br>
-  Java Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Java Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   </em>
 </p>
 
